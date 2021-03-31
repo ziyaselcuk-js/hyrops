@@ -1,0 +1,114 @@
+<li>To see all the menus you need to type h!help.</li>
+<li>To change bot's prefix you need to type h!prefix-set.
+</li>
+<li>To invite the bot your server you need  to type h!invite.</li>
+<li>To change the language of the bot you need h!lang (tr or en).</li>
+----------------------------------------------
+
+<table id="komuttlarr">
+                    <tbody><tr class="header">
+                        <th style="width:15%;">Name</th>
+                        <th style="width:60%;">Description</th>
+                        <th style="width:25%;">Usage</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            Moderation Commands
+                        </td>
+                        <td>
+                            It shows moderation menu.
+                        </td>
+                        <td>
+                            h!help-moderation
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Subscriber Commands 
+                        </td>
+                        <td>
+                           It shows subscriber system commands.
+                        </td>
+                        <td>
+                            h!help-subscriber
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Botlist Commands</td>
+                        <td>
+                            It shows bot-list system commands.
+                        </td>
+                        <td>
+                          h!help-botlist </td>
+                    </tr>
+                    <tr>
+                      <td>Nsfw Commands </td>
+                        <td>
+                             It show nsfw commands.(18+)
+                        </td>
+                        <td>
+                            h!help-nsfw
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Server Protect Commands
+                        </td>
+                        <td>
+                            It shows server protect and guard commands.         </td>
+                        <td>h!help-guard </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Normal User Commands
+                        </td>
+                        <td>
+                            It shows user commands.                       </td>
+                        <td>h!help-user </td>
+                    </tr>
+                    <tr>
+           <td>
+                            Premium Commands
+                        </td>
+                        <td>
+                          It shows commands available only to premium members.(Just Turkish)                      </td>
+                        <td>h!help-gold </td>
+                    </tr>
+                    <tr>
+               <td>                      
+                    </tr>
+                </tbody></table>   
+                        </td>
+                        <td>
+ Advanced Language Assisted Moderation and Fun Bot.               </td>
+                    </tr>
+                    <tr>
+                        <td>                      
+                    </tr>
+                </tbody></table>
+           
+ <style>
+.columns .bot-img {
+     border-radius: 4px !important;
+     overflow: visible !important;
+     box-shadow: none !important;
+     background: none !important;
+     box-shadow: none !important;
+}
+.bot-img&gt;img {
+border: 4px solid #ffbb00;
+background-color: transparent;
+}
+  
+     .votebutton{
+  -webkit-animation: rainbow-text 1s infinite alternate;
+  animation: rainbow-text 0.5s infinite alternate;
+  font-weight: bold;
+  font-style: oblique;
+     background-image: url('https://cdn.glitch.com/8786d0d8-ea5c-4578-a642-461dec647451%2F1610425.jpg?v=1591880252608') !important;
+  } 
+   body {
+   background: url('https://cdn.glitch.com/8786d0d8-ea5c-4578-a642-461dec647451%2F1610425.jpg?v=1591880252608') !important;
+  } 
+  
+</style>
